@@ -5,6 +5,9 @@
  */
 (function(window, document, undefined) {'use strict','use strict',,'use strict','use strict','use strict','use strict','use strict';
 
+@scope.test  function () {
+}
+	
 /**
  * @description
  *
